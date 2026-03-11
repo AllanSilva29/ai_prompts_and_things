@@ -1,0 +1,11 @@
+Analise o seguinte texto de falha de teste e extraia as informações relevantes:
+
+[texto de falha de teste]
+
+As informações que preciso são:
+
+Tipo de erro ou problema
+Localização do erro (arquivo, linha, etc.)
+Descrição do erro
+Quaisquer outras informações relevantes que possam ajudar a entender o problema
+Forneça as informações extraídas em um formato claro e conciso.
