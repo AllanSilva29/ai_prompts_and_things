@@ -1,0 +1,1356 @@
+[
+  {
+    "id": "4cd52f36-9522-4257-ba90-5cecf3aefd03",
+    "name": "Análise de Dados",
+    "cards": [
+      {
+        "term": "Análise de Dados",
+        "explanation": "Processo sistemático de inspecionar, limpar, transformar e modelar dados para descobrir informações úteis e apoiar decisões.",
+        "id": "bcdd1e18-8a8b-45b5-abde-b7f10d3b298b"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Disciplina que combina estatística, programação e conhecimento de negócio para extrair insights de dados brutos.",
+        "id": "bd0e4e3f-8877-4354-a55f-95fdbad79292"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Conjunto de técnicas usadas para transformar dados em conhecimento acionável.",
+        "id": "e39fb217-a111-462f-a7a4-f41816fdca0e"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Prática de examinar dados para encontrar padrões, tendências e anomalias.",
+        "id": "91413dde-fcf5-41ee-ad09-b30c7967d14c"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Ferramenta estratégica moderna que ajuda empresas a entender o passado, explicar o presente e prever o futuro.",
+        "id": "2dd63dc7-da16-4200-9c8d-c049651d0699"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Aplicação prática da estatística e da computação para resolver problemas reais do mundo dos negócios.",
+        "id": "0ab04ae1-6911-48a9-96fd-7153b3a41497"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Processo iterativo que vai da coleta de dados até a geração de recomendações baseadas em evidências.",
+        "id": "efc78b8b-65d8-4fbf-8cc6-e1ff47a889a5"
+      },
+      {
+        "term": "Análise de Dados",
+        "explanation": "Campo interdisciplinar responsável por reduzir incerteza através de evidências quantitativas.",
+        "id": "71ed3748-50e9-40b3-a0c1-74ebebd58606"
+      },
+      {
+        "term": "Análise Descritiva",
+        "explanation": "Tipo de análise que responde \"O que aconteceu?\" usando resumos, médias e visualizações.",
+        "id": "b82e4b2b-c444-497a-9b9f-53f576e6c9bc"
+      },
+      {
+        "term": "Análise Descritiva",
+        "explanation": "Análise focada em métricas históricas, distribuições e relatórios do que já ocorreu.",
+        "id": "63b7e960-b9f9-4636-8481-2f18dfa4563b"
+      },
+      {
+        "term": "Análise Descritiva",
+        "explanation": "Etapa que resume e descreve as características principais de um conjunto de dados.",
+        "id": "77aa756b-fa46-4374-a1a9-2fa6d5528c68"
+      },
+      {
+        "term": "Análise Descritiva",
+        "explanation": "Análise que gera dashboards e relatórios para entender o desempenho passado.",
+        "id": "597a7a1e-359c-4046-ac78-03bba449a644"
+      },
+      {
+        "term": "Análise Diagnóstica",
+        "explanation": "Tipo de análise que investiga \"Por que aconteceu?\" buscando causas raízes.",
+        "id": "713d3f03-1e3d-4155-acd4-a51386e39dd4"
+      },
+      {
+        "term": "Análise Diagnóstica",
+        "explanation": "Análise que identifica fatores e relações que explicam um evento ou resultado.",
+        "id": "f9b3dd1c-fc98-403a-8c8f-a31b4000c65c"
+      },
+      {
+        "term": "Análise Diagnóstica",
+        "explanation": "Fase que vai além dos números e procura entender os motivos por trás dos dados.",
+        "id": "f1e17c7f-043c-4e41-90a1-9169548a8c9e"
+      },
+      {
+        "term": "Análise Preditiva",
+        "explanation": "Tipo de análise que usa modelos para responder \"O que pode acontecer no futuro?\".",
+        "id": "12b6e058-3d62-452b-88a9-6cc184fbf6f5"
+      },
+      {
+        "term": "Análise Preditiva",
+        "explanation": "Análise que faz previsões baseadas em padrões históricos e machine learning.",
+        "id": "1564170e-8fa7-474c-a8d8-fa6e148e8b98"
+      },
+      {
+        "term": "Análise Preditiva",
+        "explanation": "Uso de algoritmos para estimar resultados futuros com base em dados passados.",
+        "id": "4651a649-c5ae-4e05-8620-69197ea40ac5"
+      },
+      {
+        "term": "Análise Prescritiva",
+        "explanation": "Tipo de análise que recomenda \"O que devemos fazer?\" com base em simulações.",
+        "id": "c16c8d37-da19-4634-962b-98c3fb276acb"
+      },
+      {
+        "term": "Análise Prescritiva",
+        "explanation": "Nível avançado que sugere ações ótimas para alcançar objetivos.",
+        "id": "e99874c1-1352-4350-a5c4-f709adaa177c"
+      },
+      {
+        "term": "Análise Prescritiva",
+        "explanation": "Análise que combina previsão com otimização para recomendar decisões.",
+        "id": "b06bc96e-b7c1-4d02-9378-ee31e86dec9b"
+      },
+      {
+        "term": "Exploratory Data Analysis (EDA)",
+        "explanation": "Fase inicial de exploração e visualização dos dados para gerar hipóteses.",
+        "id": "8a42822e-dc28-4b96-ad2d-f943f7ed5a8c"
+      },
+      {
+        "term": "Exploratory Data Analysis (EDA)",
+        "explanation": "Processo de entender a estrutura, qualidade e padrões dos dados antes da análise formal.",
+        "id": "88d4a152-a8a6-4840-b625-e82be48f8b6e"
+      },
+      {
+        "term": "Data Cleaning",
+        "explanation": "Etapa crítica de correção de erros, tratamento de valores faltantes e padronização dos dados.",
+        "id": "9fe52537-33ff-4a7d-9f86-a1079f5963fc"
+      },
+      {
+        "term": "Data Cleaning",
+        "explanation": "Processo de preparar os dados para análise, removendo inconsistências e ruídos.",
+        "id": "f540cdc8-73a8-4130-add5-3782044139a7"
+      },
+      {
+        "term": "SQL",
+        "explanation": "Linguagem padrão para consultar e manipular grandes volumes de dados em bancos relacionais.",
+        "id": "8e3ce946-04f3-4e7b-8d53-18389920d070"
+      },
+      {
+        "term": "Python para Análise de Dados",
+        "explanation": "Linguagem mais usada atualmente, com bibliotecas como Pandas, NumPy e Matplotlib.",
+        "id": "a261c2bc-84e8-4f58-9814-e70c03817151"
+      }
+    ],
+    "createdAt": "2026-07-23T18:48:53.283Z"
+  },
+  {
+    "id": "5e149ffb-78e4-403e-b98b-b2eea7509570",
+    "name": "Fundamentos de Data Analytics",
+    "cards": [
+      {
+        "term": "Data",
+        "explanation": "Conjunto de fatos brutos que podem ser coletados, armazenados e analisados.",
+        "id": "420d737d-d16c-4382-83be-ad27a15a5c20"
+      },
+      {
+        "term": "Dataset",
+        "explanation": "Coleção estruturada de dados relacionados.",
+        "id": "ec43dd80-be9d-4dd3-af46-9ed6c6b42060"
+      },
+      {
+        "term": "Database",
+        "explanation": "Sistema organizado para armazenar e gerenciar dados.",
+        "id": "1449d1ed-bd26-4f1a-b7b9-de42050db740"
+      },
+      {
+        "term": "Data Analysis",
+        "explanation": "Processo de inspecionar, transformar e interpretar dados para gerar conclusões.",
+        "id": "49f47ef8-7fdd-48f6-aefd-2a17c0a1d3e6"
+      },
+      {
+        "term": "Data Analytics",
+        "explanation": "Ciência de utilizar dados para responder perguntas e apoiar decisões.",
+        "id": "acef28fe-2e59-4028-83e0-3868685ab664"
+      },
+      {
+        "term": "Data Analyst",
+        "explanation": "Profissional responsável por coletar, limpar, analisar e comunicar dados.",
+        "id": "4605bce6-d121-4956-897a-41478292cb42"
+      },
+      {
+        "term": "Business Task",
+        "explanation": "Problema ou pergunta de negócio que a análise busca responder.",
+        "id": "d1ee429e-dd66-454f-a694-b2a1240ff0e1"
+      },
+      {
+        "term": "Business Metric",
+        "explanation": "Medida utilizada para avaliar o desempenho de um objetivo de negócio.",
+        "id": "0ac8c6e8-d29b-49e3-b084-2f4172edbcf3"
+      },
+      {
+        "term": "Metric",
+        "explanation": "Valor quantitativo utilizado para medir desempenho.",
+        "id": "4c6c9398-e2ef-4d99-a9e2-aac9dec06385"
+      },
+      {
+        "term": "Data-driven Decision-making",
+        "explanation": "Processo de tomar decisões baseadas em evidências obtidas dos dados.",
+        "id": "b19f2296-ff67-4b81-b813-7bbe2ad19884"
+      },
+      {
+        "term": "Data-inspired Decision-making",
+        "explanation": "Processo de usar dados como inspiração juntamente com experiência e contexto.",
+        "id": "1e651b4d-f19b-4119-b77f-f0d6808be328"
+      },
+      {
+        "term": "Data Ecosystem",
+        "explanation": "Conjunto de pessoas, processos, tecnologias e dados que interagem entre si.",
+        "id": "31dc3b55-9339-4d4f-9de5-096a9f0ebef8"
+      },
+      {
+        "term": "Data Strategy",
+        "explanation": "Planejamento de como uma organização coleta, utiliza e gerencia seus dados.",
+        "id": "9c52c92c-5c83-4d5d-bd76-c2908e37661b"
+      },
+      {
+        "term": "Data Science",
+        "explanation": "Área que combina estatística, programação e aprendizado de máquina para extrair conhecimento dos dados.",
+        "id": "f25d1b40-403d-4712-a676-060ff2748ed9"
+      },
+      {
+        "term": "Data Engineer",
+        "explanation": "Profissional responsável por construir e manter a infraestrutura de dados.",
+        "id": "3f42b4f9-0a4e-403f-adee-f18def517a6d"
+      },
+      {
+        "term": "Data Warehousing Specialist",
+        "explanation": "Profissional especializado em armazenamento e organização de grandes volumes de dados.",
+        "id": "e04c25f1-ffa0-4462-85dd-394f2a16d3b0"
+      }
+    ],
+    "createdAt": "2026-07-27T17:03:37.077Z"
+  },
+  {
+    "id": "451b5dd1-d08a-4e1d-80b9-91041f92b7e1",
+    "name": "Qualidade dos Dados",
+    "cards": [
+      {
+        "term": "Accuracy",
+        "explanation": "Grau em que os dados representam corretamente a realidade.",
+        "id": "bdba6524-d974-4e0a-b6ab-7f387e8f3453"
+      },
+      {
+        "term": "Completeness",
+        "explanation": "Grau em que todos os dados necessários estão presentes.",
+        "id": "5bed4980-4baf-48a2-9c5d-3ebeec4c09d0"
+      },
+      {
+        "term": "Consistency",
+        "explanation": "Grau em que os dados permanecem uniformes entre diferentes fontes e momentos.",
+        "id": "41e532db-157d-4c98-a322-fe74698bbd62"
+      },
+      {
+        "term": "Validity",
+        "explanation": "Grau em que os dados obedecem às regras e restrições definidas.",
+        "id": "1b5fa1bd-cc9d-426a-9993-8ab09ae7e135"
+      },
+      {
+        "term": "Data Integrity",
+        "explanation": "Garantia de que os dados permanecem precisos, completos e consistentes durante todo o ciclo de vida.",
+        "id": "f10e6c77-ac51-4f25-9d88-8d15c04661f8"
+      },
+      {
+        "term": "Clean Data",
+        "explanation": "Dados completos, corretos e relevantes para a análise.",
+        "id": "31659cd4-bb03-40af-81f2-172ff260e3f8"
+      },
+      {
+        "term": "Dirty Data",
+        "explanation": "Dados incompletos, incorretos, inconsistentes ou irrelevantes.",
+        "id": "e750d6fe-9a7c-44f1-b917-703cd64c6274"
+      },
+      {
+        "term": "Duplicate Data",
+        "explanation": "Registros repetidos que representam a mesma informação.",
+        "id": "2bc7e865-eac9-40d0-8264-d722861cf37e"
+      },
+      {
+        "term": "Outdated Data",
+        "explanation": "Dados que foram substituídos por informações mais recentes.",
+        "id": "0bfcc5d8-43fb-4225-9957-0cbcd4097152"
+      },
+      {
+        "term": "Incomplete Data",
+        "explanation": "Dados que possuem campos obrigatórios ausentes.",
+        "id": "5d5a15b4-3342-4e8b-88cf-d3a09c0b492c"
+      },
+      {
+        "term": "Incorrect/Inaccurate Data",
+        "explanation": "Dados preenchidos, porém com valores errados.",
+        "id": "32a7b94c-d654-4357-8d8b-16b40c47f079"
+      },
+      {
+        "term": "Inconsistent Data",
+        "explanation": "Dados equivalentes representados de maneiras diferentes.",
+        "id": "04afa084-1af7-4173-bf3a-0e61ae5fd259"
+      },
+      {
+        "term": "Data Validation",
+        "explanation": "Processo de verificar se os dados atendem aos critérios de qualidade estabelecidos.",
+        "id": "f456ff98-884f-41c5-834a-4e698d1369ba"
+      },
+      {
+        "term": "Data Validation Process",
+        "explanation": "Processo contínuo de verificar e confirmar qualidade, consistência e precisão dos dados.",
+        "id": "865da953-f2b1-48b5-a3f1-0306ad98a454"
+      },
+      {
+        "term": "Data Constraints",
+        "explanation": "Regras que determinam quais valores são válidos para um dado.",
+        "id": "3f61b888-929c-4c07-b14b-fd4e5ff17cbd"
+      },
+      {
+        "term": "Cross-field Validation",
+        "explanation": "Validação que verifica consistência entre múltiplos campos relacionados.",
+        "id": "3fa58996-5775-4b8f-a583-bf84b8db6acf"
+      },
+      {
+        "term": "Verification",
+        "explanation": "Confirmação de que o processo de limpeza foi executado corretamente.",
+        "id": "a4603b09-47bd-4403-8951-bba9ed52fac5"
+      },
+      {
+        "term": "Compatibility",
+        "explanation": "Capacidade de diferentes conjuntos de dados funcionarem juntos.",
+        "id": "c0caf583-0738-4e93-9f17-099345f0739f"
+      },
+      {
+        "term": "Data Mapping",
+        "explanation": "Processo de relacionar campos equivalentes entre diferentes fontes de dados.",
+        "id": "5587ccf0-da37-4a33-ab0c-de4ed7f80e28"
+      },
+      {
+        "term": "Data Merging",
+        "explanation": "Processo de unir dois ou mais conjuntos de dados em um único dataset.",
+        "id": "ca116d54-1794-474d-a930-97d88bfdbdc2"
+      },
+      {
+        "term": "Data Aggregation",
+        "explanation": "Processo de combinar diversos dados em uma visão resumida.",
+        "id": "5c29ed2e-48d2-40ec-8423-f3d350a0918c"
+      },
+      {
+        "term": "Aggregation",
+        "explanation": "Processo de reunir diversas informações em um único conjunto.",
+        "id": "8d0011f6-df9b-4b3c-a1b5-92bf163a292a"
+      },
+      {
+        "term": "Data Manipulation",
+        "explanation": "Processo de modificar dados para facilitar organização e análise.",
+        "id": "d92dab5e-b6d4-41db-bf37-a93dfa110824"
+      },
+      {
+        "term": "Data Range",
+        "explanation": "Intervalo permitido entre valores mínimo e máximo.",
+        "id": "629d4e50-37ae-483e-afe4-0a31daefc90a"
+      },
+      {
+        "term": "Mandatory",
+        "explanation": "Valor que obrigatoriamente deve ser informado.",
+        "id": "8d3d366c-f43a-4246-b261-e496cf1e5c09"
+      },
+      {
+        "term": "Field Length",
+        "explanation": "Quantidade máxima de caracteres permitida em um campo.",
+        "id": "831151bf-4c98-4883-ab22-2f16c2e44152"
+      },
+      {
+        "term": "Unique",
+        "explanation": "Valor que não pode possuir duplicatas.",
+        "id": "b4fa1ea7-ba58-407e-a91d-da785a397604"
+      },
+      {
+        "term": "Null",
+        "explanation": "Indicação de ausência de valor em um campo.",
+        "id": "332cd87f-076c-457d-a6e0-8768c9b9df55"
+      },
+      {
+        "term": "Redundancy",
+        "explanation": "Armazenamento da mesma informação em mais de um local.",
+        "id": "3308c987-d960-4923-ad4e-2a6c401ec274"
+      },
+      {
+        "term": "Remove Duplicates",
+        "explanation": "Ferramenta utilizada para eliminar registros duplicados automaticamente.",
+        "id": "f4dde08b-c4e7-42eb-ad7d-7df4959de61e"
+      },
+      {
+        "term": "Find and Replace",
+        "explanation": "Ferramenta para localizar e substituir valores em um conjunto de dados.",
+        "id": "47a774b8-9152-4098-8da1-2be7c37146ee"
+      },
+      {
+        "term": "Delimiter",
+        "explanation": "Caractere utilizado para separar valores em um arquivo de dados.",
+        "id": "d305b972-4068-4e55-a037-1616ce21a00d"
+      },
+      {
+        "term": "Record",
+        "explanation": "Conjunto de informações correspondente a uma linha de uma tabela.",
+        "id": "67fcd7dc-6774-4d88-bca2-95738f0af661"
+      },
+      {
+        "term": "Field",
+        "explanation": "Unidade individual de informação, normalmente representada por uma coluna.",
+        "id": "8d1d7adb-ab3a-4f8e-9715-c9e7c2c7664f"
+      },
+      {
+        "term": "Observation",
+        "explanation": "Registro individual contendo atributos de uma entidade.",
+        "id": "c6a88aac-9693-436c-b628-8b6f127afdc1"
+      },
+      {
+        "term": "Attribute",
+        "explanation": "Característica que descreve um dado, normalmente representada por uma coluna.",
+        "id": "022c60a6-7773-4113-9081-cd4de49e7f98"
+      },
+      {
+        "term": "Header",
+        "explanation": "Primeira linha de uma tabela contendo os nomes das colunas.",
+        "id": "2790aaba-b034-4395-9d27-964edf2e06c3"
+      }
+    ],
+    "createdAt": "2026-07-27T17:20:02.085Z"
+  },
+  {
+    "id": "08661d1c-7753-4cd5-9fc3-50103142d391",
+    "name": "Ética e Privacidade dos Dados",
+    "cards": [
+      {
+        "term": "Data Ethics",
+        "explanation": "Conjunto de princípios que orientam a coleta, armazenamento, uso e compartilhamento responsável dos dados.",
+        "id": "a29bf628-f427-49b4-8a30-c4647644d561"
+      },
+      {
+        "term": "Data Privacy",
+        "explanation": "Proteção das informações pessoais durante todo o ciclo de vida dos dados.",
+        "id": "94596698-66ef-469b-a896-1eb1f2e242da"
+      },
+      {
+        "term": "Data Security",
+        "explanation": "Conjunto de medidas para proteger dados contra acesso, alteração ou destruição não autorizados.",
+        "id": "0f90cfed-5066-4ac0-a22f-1dfc3327a1d7"
+      },
+      {
+        "term": "Data Anonymization",
+        "explanation": "Processo de remover informações que permitam identificar indivíduos.",
+        "id": "648f5812-55d6-4fe9-902d-504a1b5fa6d8"
+      },
+      {
+        "term": "Access Control",
+        "explanation": "Mecanismos que limitam quem pode acessar ou modificar determinados dados.",
+        "id": "f9daeb6a-60b8-478f-a195-0efe5d40615e"
+      },
+      {
+        "term": "Consent",
+        "explanation": "Direito do indivíduo de saber e concordar previamente com o uso de seus dados.",
+        "id": "1d0c8e00-2c87-4854-a4d0-ea271779c5cf"
+      },
+      {
+        "term": "Ownership",
+        "explanation": "Princípio segundo o qual os indivíduos possuem controle sobre os dados que fornecem.",
+        "id": "191a24c1-97b9-4b03-bd8f-3ac253552cb3"
+      },
+      {
+        "term": "Openness",
+        "explanation": "Princípio que incentiva transparência sobre coleta, uso e compartilhamento de dados.",
+        "id": "929698f5-998e-4638-ad8c-6d20b192c36a"
+      },
+      {
+        "term": "Fairness",
+        "explanation": "Princípio de tratar indivíduos de forma imparcial, evitando vieses e discriminação.",
+        "id": "77e8fe7c-cfd4-4c21-8a62-be5a1a36767f"
+      },
+      {
+        "term": "Currency",
+        "explanation": "Princípio de informar como transações financeiras relacionadas aos dados são realizadas.",
+        "id": "19d483c0-f054-49cb-bdb6-73aa912edfa5"
+      },
+      {
+        "term": "Transaction Transparency",
+        "explanation": "Princípio de tornar compreensíveis os processos e algoritmos utilizados sobre os dados.",
+        "id": "984e54a5-0f9f-4035-a77f-be9a15de31cc"
+      },
+      {
+        "term": "Data Governance",
+        "explanation": "Conjunto de políticas e processos responsáveis pela administração dos ativos de dados de uma organização.",
+        "id": "bf07d27e-4756-4041-ab00-49aefab5e0fe"
+      },
+      {
+        "term": "Data Replication",
+        "explanation": "Processo de manter cópias dos dados em diferentes locais para aumentar disponibilidade e segurança.",
+        "id": "877c3342-1ebf-44af-b665-a9cee636e166"
+      },
+      {
+        "term": "Cookie",
+        "explanation": "Arquivo armazenado no dispositivo do usuário para registrar informações sobre sua navegação.",
+        "id": "b206e497-4e9a-4551-a873-50bc9db9f3bd"
+      },
+      {
+        "term": "Geolocation",
+        "explanation": "Identificação da localização geográfica de um dispositivo ou pessoa por meios digitais.",
+        "id": "003d9f8f-5654-4c84-8d11-ffaf55fcd6a2"
+      },
+      {
+        "term": "GDPR (General Data Protection Regulation)",
+        "explanation": "Regulamento europeu criado para proteger os dados pessoais dos cidadãos.",
+        "id": "54bd2218-9a31-4c7c-8267-41363a5f5e9f"
+      },
+      {
+        "term": "ROCCC",
+        "explanation": "Critério para avaliar fontes de dados considerando confiabilidade, originalidade, abrangência, atualidade e citações.",
+        "id": "52d4b901-01dd-4357-bda8-c461ee4142de"
+      },
+      {
+        "term": "Good Data Source",
+        "explanation": "Fonte de dados confiável, original, abrangente, atual e devidamente referenciada.",
+        "id": "81490361-d588-4018-9536-65e16487fd18"
+      },
+      {
+        "term": "Bad Data Source",
+        "explanation": "Fonte de dados que não atende aos critérios de qualidade e confiabilidade.",
+        "id": "5e5535b1-1c7c-4e37-9c72-38d1c77b58ec"
+      },
+      {
+        "term": "Data Transfer",
+        "explanation": "Processo de copiar dados entre dispositivos, sistemas ou redes.",
+        "id": "5d29ae34-941f-45cb-bca2-ee9f56343a25"
+      },
+      {
+        "term": "Data Interoperability",
+        "explanation": "Capacidade de diferentes sistemas compartilharem e utilizarem dados em conjunto.",
+        "id": "bcc38b50-ee4d-4f28-92f5-b21a63d76190"
+      },
+      {
+        "term": "Data Life Cycle",
+        "explanation": "Sequência das etapas pelas quais os dados passam: planejar, capturar, gerenciar, analisar, arquivar e destruir.",
+        "id": "0925a04b-0ab2-44f6-a73c-04a5a3a15fbe"
+      },
+      {
+        "term": "Archive",
+        "explanation": "Etapa do ciclo de vida dos dados destinada ao armazenamento de longo prazo.",
+        "id": "f2489a13-d50f-4733-8216-5aa733f590d0"
+      },
+      {
+        "term": "Destroy",
+        "explanation": "Etapa do ciclo de vida dos dados destinada à eliminação definitiva das informações.",
+        "id": "a3ddd369-7fe0-4d7f-b206-e69d47462929"
+      }
+    ],
+    "createdAt": "2026-07-27T17:53:45.477Z"
+  },
+  {
+    "id": "daf3745a-3053-4c2f-9890-36a2d49883fc",
+    "name": "Naruhodo #347 - Programação Neurolinguística (PNL) tem base científica? - Parte 2 de 2",
+    "cards": [
+      {
+        "term": "PNL",
+        "explanation": "Não é uma ciência nem uma terapia validada; o episódio a caracteriza como um produto comercial baseado em promessas de reprogramação mental sem evidências científicas robustas.",
+        "id": "15eb43d0-694c-4958-afd6-cd410b3e0569"
+      },
+      {
+        "term": "Produto",
+        "explanation": "Um sistema pode funcionar comercialmente independentemente de sua validade científica; o importante para o mercado é sua capacidade de ser vendido.",
+        "id": "13932666-24d6-46cf-8ffb-a18aff7eef86"
+      },
+      {
+        "term": "Reprogramação Mental",
+        "explanation": "Ideia central da PNL de alterar padrões mentais apenas por linguagem ou treinamento, criticada no episódio por não possuir base científica.",
+        "id": "90f8c10a-7f16-4b54-8e29-fd8269d9f92c"
+      },
+      {
+        "term": "Eficácia Simbólica",
+        "explanation": "Melhoras podem ocorrer porque a pessoa atribui significado ao ritual ou sistema de crenças, e não porque a técnica possui um mecanismo científico comprovado.",
+        "id": "f70694cd-633c-4962-88db-8ae666f75c14"
+      },
+      {
+        "term": "Relação Estética",
+        "explanation": "Mudanças pessoais podem surgir quando alguém cria uma conexão subjetiva com um sistema de práticas, sem que isso valide cientificamente o sistema.",
+        "id": "3b6f3f82-1858-4739-b877-90c5b9bc4cb4"
+      },
+      {
+        "term": "Galinha",
+        "explanation": "Acrônimo criado no episódio para reunir práticas respaldadas por evidências científicas, em contraste com a PNL.",
+        "id": "2a21d36f-8db0-45a4-8697-addbc883fc45"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Reconhecer genuinamente quem ajudou você fortalece vínculos sociais e produz benefícios psicológicos demonstrados por pesquisas.",
+        "id": "fbf7330a-0992-4795-9fd8-16458bba89bd"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Qualquer quantidade de exercício acima de zero já produz benefícios para saúde e longevidade; não existe um limite mínimo para começar.",
+        "id": "b75cf83d-31b6-4ee6-8335-723091bbc246"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Experimentar atividades novas aumenta a autoeficácia e permite descobrir capacidades que não seriam percebidas apenas pela reflexão.",
+        "id": "29146932-96bc-46dd-aabc-bee873f8efa9"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Não pode ser produzida diretamente; apenas criamos condições para que ela apareça naturalmente.",
+        "id": "c546e724-a775-465c-8aab-db39a98f17a7"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Buscar experiências diferentes expande repertório, desafia crenças e cria oportunidades de aprendizado.",
+        "id": "ae1e5162-72de-443a-85d6-059e05509e7c"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Admitir \"não sei\" é condição necessária para aprender e revisar as próprias crenças.",
+        "id": "189e25ea-3d23-4632-aee3-43415d038e38"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Esforço para compreender experiências que jamais poderão ser vividas por você, reconhecendo os limites da própria perspectiva.",
+        "id": "946da7e6-4cdd-49be-a06f-36ca273a3446"
+      },
+      {
+        "term": "Estar Menos Errado",
+        "explanation": "Objetivo da ciência não é tornar alguém perfeito ou feliz, mas reduzir erros continuamente por meio da revisão crítica.",
+        "id": "38fd3e93-8db0-416d-814a-d8f88151ddd2"
+      },
+      {
+        "term": "Aprender com o Erro",
+        "explanation": "O erro fornece mais informação que o acerto porque revela exatamente o que precisa ser corrigido.",
+        "id": "6ceeb185-7a41-4dbd-a1c1-e4dd1402b5dc"
+      },
+      {
+        "term": "Marketing Científico",
+        "explanation": "O episódio argumenta que o marketing possui uma crise conceitual e frequentemente privilegia técnicas de venda em vez de fundamentos científicos.",
+        "id": "6c06d66d-a45d-44f4-bd8c-805a5524ad88"
+      },
+      {
+        "term": "Pseudociência",
+        "explanation": "Quando uma prática se torna um produto altamente persuasivo, ela pode continuar existindo independentemente de evidências científicas.",
+        "id": "955a48df-5882-4ba9-bf24-6456d939c376"
+      },
+      {
+        "term": "Ciência",
+        "explanation": "A função da ciência não é fazer indivíduos felizes, mas permitir a sobrevivência, o progresso coletivo e a redução sistemática de erros.",
+        "id": "4d36f12e-8f09-4235-8880-c06e1c5a2001"
+      },
+      {
+        "term": "Educação",
+        "explanation": "A educação voltada para compreender o mundo, e não apenas para o mercado de trabalho, é apresentada como essencial para a sobrevivência da sociedade.",
+        "id": "6188fbe5-82f9-4675-b6db-937d2bae770c"
+      },
+      {
+        "term": "Revolução Individual",
+        "explanation": "Mudanças sociais duradouras surgem principalmente pela transformação das pessoas, e não por produtos ou promessas de desenvolvimento pessoal.",
+        "id": "d52c0467-86ac-4632-a264-ad9b476711c5"
+      }
+    ],
+    "createdAt": "2026-07-27T18:12:15.116Z"
+  },
+  {
+    "id": "67788335-6627-4f63-b549-9e7905e335c2",
+    "name": "Método GALINHA (letra por letra)",
+    "cards": [
+      {
+        "term": "Gratidão",
+        "explanation": "Agradecer genuinamente a quem te ajudou gera benefício maior em quem agradece do que em quem recebe",
+        "id": "0a833157-104c-4a0e-9c68-7bdd2be7667c"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Primeira letra do método GALINHA, ligada ao episódio sobre gratidão do podcast",
+        "id": "99a83373-f468-473a-a3ae-0ef6f3b17351"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Reconhecer professores do ensino fundamental, mesmo sem lembrar seus nomes, é um exercício de gratidão",
+        "id": "17bdde4d-59a9-426a-b6c2-dba697fb4c14"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Diferente de um \"obrigado\" automático do dia a dia — precisa ser um reconhecimento genuíno e consciente",
+        "id": "8dd271f0-8ca6-40c1-8753-eb426463fa5c"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Mandar uma mensagem simples de agradecimento a alguém esquecido já é suficiente para gerar o efeito",
+        "id": "b3d13158-1ccb-41be-921d-108c7971e19c"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Cria vínculos ao reconhecer de forma autêntica o que outras pessoas fizeram por você",
+        "id": "441ccc08-b69b-4187-9b7c-0ff2649ae816"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "O movimento de \"ir lá e agradecer\" é mais mobilizador para quem agradece do que para quem recebe",
+        "id": "13743775-649e-4577-adb7-2e000c3fd265"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Gera autonomia interna: \"poxa, faz tempo que não falo com fulano, vou falar por causa do que ele fez por mim\"",
+        "id": "94f460ad-27a6-4d55-b301-a2d308ae3f5d"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Pode ser direcionada a qualquer pessoa, não apenas familiares ou professores",
+        "id": "762a720c-cc9d-4615-bf8c-bc913dd589f1"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Também surge naturalmente ao praticar a alteridade — reconhecer vidas diferentes da nossa",
+        "id": "1c458c4e-4e86-4d56-a3ea-bb2358727e23"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Não exige grandes gestos, apenas reconhecimento verdadeiro e específico",
+        "id": "16251d43-484b-4ebd-9d93-a9509ef1ee9b"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Serve como ponto de partida e também de retorno no ciclo do método GALINHA",
+        "id": "4a79607f-7a85-4701-b626-fbedcb387ac2"
+      },
+      {
+        "term": "Gratidão",
+        "explanation": "Baseada em evidências sobre bem-estar subjetivo e conexão social, não em promessas vazias",
+        "id": "a9a6f55c-da3b-4367-8135-e6c029293f58"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Segunda letra do método GALINHA, ligada ao episódio 312 do podcast",
+        "id": "358b1fa1-e999-44d8-bd5a-592be367691a"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Ficar sentado por longos períodos aumenta o risco de morte prematura",
+        "id": "bb84bef0-225f-4038-9c27-94c6a13b1d7e"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Qualquer quantidade de exercício, mesmo mínima, já gera benefício maior que fazer nada",
+        "id": "3dbc564f-f775-4699-a6c5-f49fe1588610"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Não existe limite mínimo eficaz — dez polichinelos por dia já trazem ganhos reais",
+        "id": "8a047fac-386f-4ea9-add4-b982be98bfb6"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Começar pequeno (poucos minutos) e aumentar gradualmente é mais sustentável que metas grandes",
+        "id": "f7581cee-2c31-4092-8bdd-20a063003506"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "O erro comum é achar que só \"vale\" ir à academia três vezes por semana",
+        "id": "1cbc86bb-7437-4ab0-8cac-b2141cf5f899"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Frase-resumo do episódio: \"galinha sempre anda, galinha parada, galinha morta\"",
+        "id": "376ae41a-a5d2-49a9-bb5f-dbe8500ec245"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Melhora longevidade e qualidade de vida, com respaldo em estudos citados no episódio 312",
+        "id": "db7cfcfa-a69f-4609-923e-5e35289d5253"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Rotina pequena e constante se encaixa melhor no dia a dia do que esforços esporádicos intensos",
+        "id": "4f48493a-1a4b-44d1-bd97-aa1154593e13"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Base biológica simples: movimento regular, independente da intensidade, gera adaptação positiva",
+        "id": "a1c05c22-49e4-494d-8862-95927d6d4494"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Contraste com o sedentarismo, que é tratado como fator de risco à saúde",
+        "id": "9cb1b33b-1fb0-4909-8f75-eab17cf6403c"
+      },
+      {
+        "term": "Atividade Física",
+        "explanation": "Não exige equipamento ou academia, apenas consistência mínima diária",
+        "id": "08112e53-00a3-467e-8bf8-e065996efee5"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Terceira letra do método GALINHA, ligada ao episódio 218 sobre sorte de principiante",
+        "id": "1a011b5a-9614-47e3-bf1e-90dbb7f4762f"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Não significa apenas \"passear\", mas fazer algo diferente da própria rotina habitual",
+        "id": "cc876b99-3174-4d2c-85b9-d32150ddf44a"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Experimentar algo que se tem vergonha ou medo de tentar, como uma aula de dança de salão",
+        "id": "1d54081e-baa9-43a9-9272-1acdad3e1779"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Serve para descobrir aptidões desconhecidas sobre si mesmo através da exposição a novos contextos",
+        "id": "073509f6-0e8b-4776-854c-c750868e387b"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Relacionado ao conceito de autoeficácia: testar-se em situações novas revela capacidades reais",
+        "id": "d1667921-0ba1-4e1f-8db4-629e0cbdddce"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Exemplo do podcast: fazer um circuito de corrida de 15km sem nunca ter treinado para isso",
+        "id": "f0af948e-72cc-4a9d-9c59-909e57df07b5"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Não é sobre atingir \"potencial máximo\", é sobre abertura a experiências novas",
+        "id": "a0c12d2d-3f55-42c5-a7a2-fda66337574f"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Gera aprendizado sobre si mesmo que não aparece na rotina, pois exige testar-se no ambiente",
+        "id": "a0813b74-9861-4d50-97cb-89c10df651a0"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Diferente da ideia de \"potencial escondido\" da PNL — aqui o autoconhecimento vem da ação, não da crença",
+        "id": "56c5a1ac-7887-4c45-a862-d0fc405877e9"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Pode ser qualquer atividade fora do hábito, sem necessidade de grande investimento",
+        "id": "b2f23f6e-f57e-42c5-b7aa-bfb11b8826f3"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Ajuda a construir a base para a inspiração, que é o próximo passo do método",
+        "id": "f551d5dd-11e3-463a-b09c-82f1288857e9"
+      },
+      {
+        "term": "Lazer",
+        "explanation": "Relacionado à ideia de que \"facetas escondidas\" só aparecem quando você se joga no ambiente",
+        "id": "1d5375c3-8df8-4dc5-bcab-61ce7f1f20b1"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Quarta letra do método GALINHA, ligada ao episódio sobre respiração/inspiração do podcast",
+        "id": "39221cef-2e4a-4c63-ac50-212e80563a08"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Não é algo que se cria diretamente, mas uma condição que se cultiva para que ela apareça",
+        "id": "99905a26-1bab-466b-be4c-899207e56ff8"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Resultado indireto da gratidão, atividade física e lazer combinados — não é um esforço isolado",
+        "id": "7dba92bd-71bc-450f-b94e-9d11a2631c96"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "As três primeiras letras da galinha (G, A, L) criam as condições para essa quarta etapa surgir",
+        "id": "7e0e1c54-e0de-456e-b46d-4fd42c3d0d54"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Não pode ser forçada por vontade, apenas favorecida por hábitos e experiências anteriores",
+        "id": "6e32c17e-022f-4d64-a7f7-bcfd64bbd692"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Emerge organicamente quando gratidão, movimento e novidade estão presentes na rotina",
+        "id": "2f2f0dde-8458-4bab-a351-5246f1bb74eb"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Depende de estar aberto a experiências (lazer) e ter energia física (atividade) previamente construídas",
+        "id": "f6178887-a897-4163-899b-6418849e8492"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "É consequência, não causa — por isso não deve ser buscada isoladamente",
+        "id": "69320adb-d730-4dd9-b1d7-fa5694ee04b7"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Relaciona-se com criar \"condições\" ao invés de \"gerar\" um estado mental diretamente",
+        "id": "1f2ce220-5b93-4cad-abff-af9103f76bec"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Parte central que conecta o \"fazer\" (ações práticas) ao \"sentir-se motivado\" naturalmente",
+        "id": "11f86966-64de-4cce-8376-60bca00ef927"
+      },
+      {
+        "term": "Inspiração",
+        "explanation": "Mostra que motivação sustentável vem de hábitos consistentes, não de discursos motivacionais pontuais",
+        "id": "facea6d7-e2f5-4fff-90ae-341a1a4abf71"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Quinta letra do método GALINHA, sobre revisitar conhecimentos antigos com novos olhos",
+        "id": "69a82098-58c3-40e2-9ee5-9ce86ec97659"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Proposta central: refazer o ensino médio de forma não instrumental, sem pensar em vestibular ou emprego",
+        "id": "f503fa16-e083-4810-ab8a-c234c1af0635"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "A maioria estudou matérias escolares apenas para passar em provas, nunca por curiosidade genuína",
+        "id": "f70c349f-54b1-4139-957f-ddd3441b8a13"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Assistir aulas gratuitas sobre botânica, física ou matemática ressignifica conhecimentos antigos",
+        "id": "26c88012-be77-400e-a942-75235e4e8a75"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Revisitar conceitos abstratos (como funções matemáticas) com a maturidade atual muda a compreensão deles",
+        "id": "5280773e-2966-4c4c-8758-45f5feca3d57"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Não é sobre fazer novos cursos ou faculdades, mas revisitar o que já foi mal aprendido",
+        "id": "b58f428d-0599-433e-b704-86bdb925431c"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Aprender algo aparentemente irrelevante (como reprodução de briófitas) pode conectar-se depois a outros contextos da vida",
+        "id": "3848a902-9ce3-4a28-aac6-947d77a71bc6"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Gera conexões inesperadas ao unir conhecimento escolar antigo com experiência de vida atual",
+        "id": "b9f192cf-9b7b-4323-a44a-85c4263fbfe7"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Estudar geografia (relevo do Brasil) ganha novo sentido para quem já viajou e viveu mais",
+        "id": "4b27459f-2825-4534-b0a5-6ca243f2ceef"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Diferente de buscar \"novidades\" externas — é resignificar o que já foi ensinado de forma rasa",
+        "id": "a02bb4ea-fda4-458d-b5d9-44524293dfa2"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Recomendação prática: usar cursos preparatórios de ENEM gratuitos para essa revisão",
+        "id": "6e5a40be-f46a-449a-bacd-513110499fcf"
+      },
+      {
+        "term": "Novidade",
+        "explanation": "Mostra que conhecimento instrumental (estudar só para passar) empobrece o aprendizado genuíno",
+        "id": "8aff6b2a-62b8-41a8-a277-870b35587b86"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Sexta letra do método GALINHA, relacionada aos episódios 259 e 260 sobre educação científica",
+        "id": "e84a49f0-9a43-4e09-a323-7081dfa9b5da"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Consiste em buscar estar \"menos errado\" ao invés de buscar estar certo",
+        "id": "1516ddfc-87fd-48b4-b309-04c4418751f7"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "A educação científica não ensina a ter certeza, ensina a errar cada vez menos ao longo do tempo",
+        "id": "1fbf65f1-8337-48cc-a1f9-35b8f2cfaa47"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Reconhecer que a maior parte das tentativas na vida termina em fracasso, não em sucesso",
+        "id": "147c6d2c-86db-4d5f-b987-5022d0ede7a2"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Prestar atenção ao próprio erro numa prova é mais valioso do que brigar pela nota",
+        "id": "dec03b8f-a30a-48a8-9a17-c5491aee82df"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Frase citada no episódio: \"você ganha ou você aprende\" — nunca simplesmente perde",
+        "id": "1d1b6b42-bca4-4729-ad73-0ce0eb409cc2"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Rejeitar biografias de sucesso que ignoram os inúmeros casos que deram errado",
+        "id": "3520b144-03a7-4f30-ad65-4f7fecea625e"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Postura oposta a quem afirma com certeza absoluta o que é \"verdade\" sobre si mesmo",
+        "id": "7d5175cb-b465-48d1-9c1c-e32820f8d1c7"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Dizer \"não sei\" é mais honesto e produtivo do que inventar explicações certas",
+        "id": "270e27d9-f6b9-443b-a1ea-48bd3bd1b5de"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Vista como o oposto do discurso de coaching, que promete certezas absolutas de sucesso",
+        "id": "b0899252-5ca7-4690-8b1d-b063f92ab2fe"
+      },
+      {
+        "term": "Humildade",
+        "explanation": "Prática que deveria ser ensinada na escola, sem depender de produtos como coaching ou PNL",
+        "id": "ebd61edb-6c14-4589-a717-a3707cba2a19"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Sétima e última letra do método GALINHA, discutida em profundidade no episódio 213",
+        "id": "de401a1e-ce6e-4011-b49a-78d2040a3229"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Reconhecer que existem vidas e experiências que nunca vivenciaremos pessoalmente",
+        "id": "cba0412f-8aec-41c0-8099-34dbe7cb2748"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Diferente de empatia: é aceitar o \"não saber\" sobre a vivência real do outro",
+        "id": "ae1de8d3-7d22-49b3-a901-a2598bd405ce"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Exige contato direto com outra pessoa para entender uma realidade distinta da própria",
+        "id": "e8a948d1-0eaa-4f73-97ba-e642d2a8f48d"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Gera gratidão natural ao expor a diversidade de vidas possíveis diante da nossa",
+        "id": "8850a587-ce64-4cd8-9416-9db83ff89496"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Lidar com a diversidade é apontado como \"a melhor forma de ter gratidão pelo mundo\"",
+        "id": "a5a04f94-3874-4c76-a600-1033cfd3f4c2"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Fecha o ciclo do método GALINHA, conectando de volta ao tema inicial da gratidão",
+        "id": "4048708f-90ec-42b8-94f9-8ba44f91b418"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Reconhece os limites do próprio conhecimento sobre experiências alheias, sem apropriação",
+        "id": "c8b7c063-1281-4c70-b4d6-68cb2361f47f"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Abre espaço mental para a diversidade humana sem pretender vivenciar tudo pessoalmente",
+        "id": "bdeb1e48-b2d3-4f06-acc3-fa27c42fc899"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Distinta de \"colocar-se no lugar do outro\" — é aceitar a distância intransponível da experiência alheia",
+        "id": "d3ef03ce-7be3-4336-a785-5bc4713b7bd4"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Ferramenta para expandir a compreensão social sem generalizar a própria vivência",
+        "id": "361f3ba0-c56b-4750-a151-dba373fd074c"
+      },
+      {
+        "term": "Alteridade",
+        "explanation": "Ao conhecer alguém com vida muito diferente, surge gratidão espontânea por essa nova perspectiva",
+        "id": "b6620999-1974-443b-91ae-26ca74eec2e7"
+      }
+    ],
+    "createdAt": "2026-07-27T18:43:29.576Z"
+  },
+  {
+    "id": "7de6db06-4c1d-4f08-be61-e7f2ed1b94cb",
+    "name": "Rhetological Fallacies",
+    "cards": [
+      {
+        "term": "Appeal to Anonymous Authority",
+        "explanation": "Usar como evidência um \"especialista\", \"estudo\" ou grupo genérico não identificado (como \"cientistas\") para afirmar que algo é verdadeiro.",
+        "id": "9c9deae6-9402-4563-b689-bb23b5b22194"
+      },
+      {
+        "term": "Appeal to Authority",
+        "explanation": "Alegar que algo é verdadeiro apenas porque uma autoridade ou especialista, qualificado ou não, afirmou isso.",
+        "id": "68c24d65-7d0d-4ac6-9a8a-3f9f35d7d724"
+      },
+      {
+        "term": "Appeal to Common Practice",
+        "explanation": "Defender que algo é correto ou verdadeiro apenas porque muitas pessoas ou organizações fazem da mesma forma.",
+        "id": "201358b5-eecc-434f-b454-7a7e642fdc35"
+      },
+      {
+        "term": "Appeal to Ignorance",
+        "explanation": "Considerar uma afirmação verdadeira apenas porque ela não foi provada falsa, ou falsa porque não foi provada verdadeira.",
+        "id": "41388646-6d2c-47bf-921b-57d9683480e1"
+      },
+      {
+        "term": "Appeal to Incredulity",
+        "explanation": "Rejeitar uma afirmação apenas porque ela parece difícil ou impossível de acreditar.",
+        "id": "6c91d7d9-6a16-4d6b-9082-e4d7b9ee3ed4"
+      },
+      {
+        "term": "Appeal to Money",
+        "explanation": "Assumir que algo é melhor ou mais verdadeiro porque é caro ou porque quem o defende é rico.",
+        "id": "4352447f-c745-4fab-9334-0fababea7a44"
+      },
+      {
+        "term": "Appeal to Novelty",
+        "explanation": "Considerar algo superior apenas por ser novo ou mais recente.",
+        "id": "fa73bfc1-289f-4b74-bc7c-8a3bf1807ef0"
+      },
+      {
+        "term": "Appeal to Popular Belief",
+        "explanation": "Dizer que algo é verdadeiro porque a maioria das pessoas acredita nisso.",
+        "id": "3c5cc70d-c23b-414d-ac6b-09e4161b96a0"
+      },
+      {
+        "term": "Appeal to Probability",
+        "explanation": "Assumir que, por algo ser possível, inevitavelmente acontecerá.",
+        "id": "323e8e3f-76f5-4282-bbfd-f11d8361c932"
+      },
+      {
+        "term": "Appeal to Tradition",
+        "explanation": "Defender que algo é verdadeiro ou correto apenas porque sempre foi feito dessa maneira.",
+        "id": "70b165c0-971c-47c7-9748-4fd2edbe60de"
+      },
+      {
+        "term": "Appeal to Consequences of a Belief",
+        "explanation": "Julgar uma crença verdadeira ou falsa com base nas consequências desejáveis ou indesejáveis de aceitá-la.",
+        "id": "75f479d4-3412-4395-aa5c-36680d9d27a5"
+      },
+      {
+        "term": "Appeal to Fear",
+        "explanation": "Tentar convencer alguém despertando medo ou preconceito em relação ao lado oposto.",
+        "id": "85671cf6-9250-420d-971a-a35adddae735"
+      },
+      {
+        "term": "Appeal to Flattery",
+        "explanation": "Inserir uma afirmação sem fundamento junto com um elogio irrelevante para facilitar sua aceitação.",
+        "id": "036272c2-d8e2-4091-aa73-6f292088c1c0"
+      },
+      {
+        "term": "Appeal to Nature",
+        "explanation": "Sugerir que algo é melhor, correto ou verdadeiro apenas por ser considerado \"natural\".",
+        "id": "f498050e-d4be-44a2-8ec2-ca5e8c29aac0"
+      },
+      {
+        "term": "Appeal to Pity",
+        "explanation": "Tentar convencer apelando para a compaixão em vez de apresentar argumentos.",
+        "id": "9287a697-4068-48b4-9ecc-ce96b9629b26"
+      },
+      {
+        "term": "Appeal to Ridicule",
+        "explanation": "Ridicularizar a posição do oponente para fazê-la parecer absurda em vez de refutá-la.",
+        "id": "cdacd45a-d2c8-4523-b712-26581bd72b19"
+      },
+      {
+        "term": "Appeal to Spite",
+        "explanation": "Rejeitar uma afirmação explorando sentimentos de antipatia ou preconceito contra quem a fez.",
+        "id": "bb5bcf6c-027c-4c89-ab58-fd320817bfd8"
+      },
+      {
+        "term": "Appeal to Wishful Thinking",
+        "explanation": "Considerar uma afirmação verdadeira ou falsa apenas porque se deseja muito que ela seja.",
+        "id": "55f113f8-9543-43cc-b140-16702962a7a7"
+      },
+      {
+        "term": "Anecdotal Evidence",
+        "explanation": "Ignorar evidências sistemáticas e confiar em relatos pessoais isolados como prova.",
+        "id": "931d84ff-0844-4b6a-a0ad-6298d6cd9fdd"
+      },
+      {
+        "term": "Composition",
+        "explanation": "Assumir que características de alguns membros de um grupo valem para o grupo inteiro.",
+        "id": "4fad448a-29eb-4a93-9f69-002d45f098dc"
+      },
+      {
+        "term": "Division",
+        "explanation": "Assumir que características do grupo necessariamente se aplicam a cada indivíduo que faz parte dele.",
+        "id": "d5858852-3aea-44d6-9b0e-80c2ca8257e0"
+      },
+      {
+        "term": "Design Fallacy",
+        "explanation": "Presumir que algo é mais verdadeiro apenas porque possui um design bonito ou uma apresentação visual convincente.",
+        "id": "fd619b12-bf4f-4d3a-a347-5fbfa22656ee"
+      },
+      {
+        "term": "Gambler's Fallacy",
+        "explanation": "Acreditar que resultados passados alteram a probabilidade de eventos futuros independentes.",
+        "id": "df8eb4de-50c6-4ee3-b0a9-581ee9630c6b"
+      },
+      {
+        "term": "Hasty Generalization",
+        "explanation": "Tirar uma conclusão geral com base em uma amostra muito pequena.",
+        "id": "3abd927e-071c-410a-b894-ceee725d763f"
+      },
+      {
+        "term": "Jumping to Conclusions",
+        "explanation": "Chegar rapidamente a uma conclusão sem considerar evidências relevantes disponíveis.",
+        "id": "c092a4b7-e95e-45de-bc75-c415ece4d5ee"
+      },
+      {
+        "term": "Middle Ground",
+        "explanation": "Presumir que a verdade sempre está no meio entre duas posições opostas.",
+        "id": "95c66657-567e-407e-a893-e176cb0cfb67"
+      },
+      {
+        "term": "Perfectionist Fallacy",
+        "explanation": "Rejeitar uma solução porque ela não resolve o problema de forma perfeita.",
+        "id": "561ac322-3557-4d00-98be-4e073bd72314"
+      },
+      {
+        "term": "Relativist Fallacy",
+        "explanation": "Rejeitar uma afirmação alegando que a verdade depende apenas da perspectiva individual.",
+        "id": "238b14e7-b00a-4615-94e8-1a5e7ab3473a"
+      },
+      {
+        "term": "Spotlight",
+        "explanation": "Generalizar para todo um grupo com base em um caso específico ou pequena amostra em destaque.",
+        "id": "a2187b6c-dd0b-4fb4-b195-8329500ea247"
+      },
+      {
+        "term": "Sweeping Generalisation",
+        "explanation": "Aplicar uma regra geral de maneira excessivamente ampla, ignorando exceções.",
+        "id": "498f9036-221a-4b55-9687-0fe1d586331d"
+      },
+      {
+        "term": "Undistributed Middle",
+        "explanation": "Concluir que duas coisas são iguais apenas porque compartilham uma característica em comum.",
+        "id": "fd7a9950-f7ef-4a05-bb38-27f59ea160de"
+      },
+      {
+        "term": "Ad Hoc Rescue",
+        "explanation": "Modificar continuamente uma explicação para protegê-la de evidências contrárias.",
+        "id": "891c599e-0f28-4798-93d7-7e9049064272"
+      },
+      {
+        "term": "Biased Generalizing",
+        "explanation": "Generalizar a partir de uma amostra enviesada para fortalecer artificialmente um argumento.",
+        "id": "4e14e101-aaff-45c2-aa68-d8bbcfbf4b4a"
+      },
+      {
+        "term": "Confirmation Bias",
+        "explanation": "Selecionar apenas as evidências que confirmam uma crença e ignorar as que a contradizem.",
+        "id": "0a3b8f88-2fc1-49f0-a826-f83335509689"
+      },
+      {
+        "term": "False Dilemma",
+        "explanation": "Apresentar apenas duas opções como se fossem as únicas possibilidades existentes.",
+        "id": "53419a7b-0028-46a1-970b-ec68de6013c0"
+      },
+      {
+        "term": "Lie",
+        "explanation": "Apresentar deliberadamente uma informação falsa como se fosse um fato.",
+        "id": "04c25707-6eb7-4fbc-b69a-70ed058b1f0b"
+      },
+      {
+        "term": "Misleading Vividness",
+        "explanation": "Usar um caso raro, porém descrito de forma vívida, para convencer que ele representa um problema comum.",
+        "id": "4bb72074-1617-4e25-9c7e-95b1cdc173fe"
+      },
+      {
+        "term": "Red Herring",
+        "explanation": "Introduzir um assunto irrelevante para desviar a atenção da questão principal.",
+        "id": "e2892a5b-50a2-4571-8e47-ad4e4e66b0a4"
+      },
+      {
+        "term": "Slippery Slope",
+        "explanation": "Alegar que um pequeno passo inevitavelmente levará a uma sequência de consequências negativas.",
+        "id": "3764b44e-5a1f-4f06-92b5-58fabd903e49"
+      },
+      {
+        "term": "Suppressed Evidence",
+        "explanation": "Omitir informações importantes que enfraquecem a própria conclusão.",
+        "id": "7dda70d3-4e33-45f3-9ba1-6bb0000ec99c"
+      },
+      {
+        "term": "Unfalsifiability",
+        "explanation": "Fazer uma afirmação que não pode ser testada nem demonstrada falsa.",
+        "id": "fba48f0f-f31e-4ea4-b6ec-f9cb93699dda"
+      },
+      {
+        "term": "Affirming the Consequent",
+        "explanation": "Assumir que existe apenas uma explicação possível para um determinado efeito observado.",
+        "id": "3afe44b2-60ee-491e-a13f-24287978ca4a"
+      },
+      {
+        "term": "Circular Logic",
+        "explanation": "Utilizar a própria conclusão como premissa para justificá-la.",
+        "id": "b458c85e-0c72-4bd7-87e8-3c50e889145a"
+      },
+      {
+        "term": "Cum Hoc Ergo Propter Hoc",
+        "explanation": "Concluir que dois eventos têm relação de causa apenas porque acontecem juntos.",
+        "id": "ea468cef-2bb8-462f-ba68-2b00ea4a8591"
+      },
+      {
+        "term": "Denying the Antecedent",
+        "explanation": "Assumir incorretamente que negar uma condição elimina todas as possibilidades de um resultado.",
+        "id": "079b18da-7cc8-4a77-9555-ab200b6b66db"
+      },
+      {
+        "term": "Ignoring a Common Cause",
+        "explanation": "Afirmar que um evento causou outro ignorando uma terceira causa comum mais provável.",
+        "id": "6a96d8fb-0b63-4521-ad39-ff79617a4492"
+      },
+      {
+        "term": "Post Hoc Ergo Propter Hoc",
+        "explanation": "Presumir que um evento causou outro apenas porque aconteceu antes dele.",
+        "id": "bea10103-87e4-4a8a-abc0-2133a8257940"
+      },
+      {
+        "term": "Two Wrongs Make a Right",
+        "explanation": "Justificar um erro alegando que ele compensa ou responde a outro erro.",
+        "id": "4c2e4b95-28da-4922-93fb-67151ba5aa17"
+      },
+      {
+        "term": "Ad Hominem",
+        "explanation": "Atacar a pessoa em vez de responder ao argumento apresentado.",
+        "id": "ae182893-41be-430d-98e7-a298a10ae9f8"
+      },
+      {
+        "term": "Burden of Proof",
+        "explanation": "Transferir para o oponente a obrigação de provar que sua afirmação está errada, em vez de demonstrá-la.",
+        "id": "a421652c-4dcb-4af6-bda0-9c63749ba382"
+      },
+      {
+        "term": "Circumstance Ad Hominem",
+        "explanation": "Desacreditar uma afirmação apenas por causa dos interesses ou circunstâncias de quem a defende.",
+        "id": "570b031a-55c3-495d-8e68-e2237a250415"
+      },
+      {
+        "term": "Genetic Fallacy",
+        "explanation": "Julgar uma ideia com base em sua origem, e não em seu conteúdo.",
+        "id": "461afadc-d835-4d2d-9aa1-2846ac052482"
+      },
+      {
+        "term": "Guilt by Association",
+        "explanation": "Desacreditar uma ideia associando-a a pessoas ou grupos considerados negativos.",
+        "id": "5d36509b-1f6f-4e12-8047-9ecbff2ab44b"
+      },
+      {
+        "term": "Straw Man",
+        "explanation": "Distorcer ou simplificar o argumento do oponente para torná-lo mais fácil de atacar.",
+        "id": "f625742f-c8ea-47a2-8e7c-9f88cb93f539"
+      }
+    ],
+    "createdAt": "2026-08-05T21:59:13.885Z"
+  }
+]
